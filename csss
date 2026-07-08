@@ -1,0 +1,24 @@
+nav{
+ 
+    justify-self:center
+
+}
+
+header{
+    justify-self: center;
+    
+}
+
+body{
+    background-color: aqua;
+}
+main {
+    text-align: center;
+}
+
+main h1{
+    justify-self: center;
+}
+button{
+    justify-self: center;
+}
