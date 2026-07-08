@@ -1,0 +1,33 @@
+
+       
+    <h1>Sistema For e While</h1> 
+    </header>
+    <nav>
+        <a href="index.html">Index</a>
+        
+        <a href="estoque.html">Estoque</a>
+
+        <a href="caixa.html">Caixa</a>
+   
+        <a href="senha.html">Senha</a>
+        
+        <a href="notas.html">Notas</a>
+   
+        <a href="conferencia.html">Conferência</a>
+    </nav>
+    <main> 
+<h1>Relatório de notas</h1>
+<p>Esse sistema gera um relatório da turma!</p>
+<button onclick="gerar()">Gerar Relatório</button>
+<p id="css">
+    
+</p>
+
+    </main>
+
+
+
+
+    <script src="script.js"></script>
+</body>
+</html>
